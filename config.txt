@@ -1,3 +1,3 @@
-token=YourToken
-owner=YourId
-prefix=YourPrefix
+token=NjI4NDQ5NTU2NzY5NjY5MTI2.XZMmwQ.ppO9GchdX3BzfpSmUJ44LTKk2cQ
+owner=460976885036220426
+prefix=1
